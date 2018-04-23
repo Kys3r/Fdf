@@ -3,7 +3,7 @@
 #                                                              /               #
 #   Makefile                                         .::    .:/ .      .::     #
 #                                                 +:+:+   +:    +:  +:+:+      #
-#   By: aberneli <aberneli@student.42.fr>          +:+   +:    +:    +:+       #
+#   By: albarbos <albarbos@student.42.fr>          +:+   +:    +:    +:+       #
 #                                                 #+#   #+    #+    #+#        #
 #   Created: 2017/11/16 07:56:05 by aberneli     #+#   ##    ##    #+#         #
 #   Updated: 2018/04/10 09:47:28 by albarbos    ###    #+. /#+    ###.fr       #
